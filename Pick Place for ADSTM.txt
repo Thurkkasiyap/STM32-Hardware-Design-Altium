@@ -1,0 +1,45 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\first_Design\Project Outputs for first_Design\Pick Place for ADSTM.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/11/26
+Time:       12:04
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer    Footprint        Center-X(mm) Center-Y(mm) Rotation Description                                                                                              
+J100       USB4105-GF-A-060  TopLayer USB4105-GF-A-060 -20.2500     0.2500       270      "USB Connector Type C SMT 12 Pin"                                                                        
+R202       1K1               TopLayer RES_0603         9.5000       -4.5000      180      "Resistor SMD 0603"                                                                                      
+R201       1K1               TopLayer RES_0603         5.7500       -4.5000      0        "Resistor SMD 0603"                                                                                      
+X200       24MHz             TopLayer XTAL_3225        18.5275      -1.8725      90       "Crystal SMD 24MHz 10PPM 7pF 3225"                                                                       
+U300       BMI088            TopLayer BMI088           4.7000       8.5000       0        "Inertial Measurement Unit IMU 6-Axis LGA"                                                               
+U200       STM32F042G6U6     TopLayer STM-UFQFPN28_V   8.7275       2.5275       180      "ARM Cortex-M0 32-bit MCU, 32 KB Flash, 6 KB Internal RAM, 24 I/Os, 28-Pin UFQFPN, -40 to 85 degC, Tray" 
+u100       LTC3405ES6#TRMPBF TopLayer SOT-23-6         -9.2500      3.9000       180      "1.5MHz, 300mA
+Synchronous Step-Down
+Regulator in ThinSOT"                                             
+R200       5K1               TopLayer RES_0603         13.3275      -2.4725      90       "Resistor SMD 0603"                                                                                      
+R103       5K1               TopLayer RES_0603         -19.2500     6.2500       180      "Resistor SMD 0603"                                                                                      
+R102       5K1               TopLayer RES_0603         -19.2500     -6.0000      180      "Resistor SMD 0603"                                                                                      
+R101       280K              TopLayer RES_0603         -10.0000     0.9000       0        "Resistor SMD 0603"                                                                                      
+R100       887K              TopLayer RES_0603         -5.0000      1.7000       90       "Resistor SMD 0603"                                                                                      
+L100       10u               TopLayer FP-NRH2412-MFG   -10.7500     8.3500       90       "Shielded Wirewound Inductor 10uH 20% 0.51A 0.72O SMD"                                                   
+J300       SM06B-GHS-TB      TopLayer SM06B-GHS-TB     7.2500       -9.0000      0        "Header Connector 6 Position 1.25MM Pitch SMD Horizontal JST GH"                                         
+J200       TC2030-NL         TopLayer TC2030-NL-FP     1.3300       -1.6650      0        "Tag-Connect No-Solder SWD Debug Connector (No Legs) DO NOT PLACE"                                       
+FB200      120R              TopLayer FB_0603          13.7275      3.7775       270      "Ferrite Bead SMD 0603"                                                                                  
+FB100      120R              TopLayer FB_0603          -14.9000     1.2000       0        "Ferrite Bead SMD 0603"                                                                                  
+C301       100n              TopLayer CAP_0603         4.5000       5.7000       180      "Capacitor SMD 0603"                                                                                     
+C300       100n              TopLayer CAP_0603         4.9000       11.3000      180      "Capacitor SMD 0603"                                                                                     
+C206       100n              TopLayer CAP_0603         12.1000      3.8000       270      "Capacitor SMD 0603"                                                                                     
+C205       100n              TopLayer CAP_0603         12.9000      6.1000       0        "Capacitor SMD 0603"                                                                                     
+C204       10p               TopLayer CAP_0603         15.5775      0.5275       90       "Capacitor SMD 0603"                                                                                     
+C203       10p               TopLayer CAP_0603         15.6000      -2.5000      270      "Capacitor SMD 0603"                                                                                     
+C201       100n              TopLayer CAP_0603         5.1000       3.0000       270      "Capacitor SMD 0603"                                                                                     
+C200       100n              TopLayer CAP_0603         18.5000      3.8000       270      "Capacitor SMD 0603"                                                                                     
+C104       100n              TopLayer CAP_0603         -14.1000     3.6000       270      "Capacitor SMD 0603"                                                                                     
+C103       100n              TopLayer CAP_0603         -15.6000     3.4000       270      "Capacitor SMD 0603"                                                                                     
+C102       22p               TopLayer CAP_0603         -6.8000      1.7000       90       "Capacitor SMD 0603"                                                                                     
+C101       4u7               TopLayer CAP_0805         -7.0000      8.2070       90       "Capacitor SMD 0805"                                                                                     
+C100       4u7               TopLayer CAP_0805         -12.0000     3.9570       270      "Capacitor SMD 0805"                                                                                     
